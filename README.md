@@ -61,3 +61,5 @@ This repository follows a standard industrial Git Workflow:
 1. The **`main`** branch contains production-ready code.
 2. Development occurs on the **`work-branch`**.
 3. Once a feature is complete, a Pull Request (PR) is opened from `work-branch` to `main`.
+
+> This repository was successfully bootstrapped and the PR workflow is active!
